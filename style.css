@@ -22,12 +22,19 @@
 	float: right;
 	margin-top: 20px;
 	
+	 
+	 
+	
 }
 
-ul{margin-left: 20%;}
+ul{margin-left: 20%;
+	
+	 list-style-type: none;
+}
 
-ul li{
+ul li a{
 	list-style-type: none;
+	 text-decoration: none;
 	float: left;
 	padding: 40px;
 	font-family: Lato;
@@ -42,6 +49,8 @@ button{
 	padding:  3px 10px 3px 10px;
 	background-color: #274970;
 	color: #ffffff;
+	margin-top: 33px;
+	
 
 }
 
